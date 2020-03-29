@@ -9,3 +9,5 @@ groups: # Used to group related content-types in the UI
     description: Description of the group. Displayed on the Group page in the UI. # [optional] {string}
   - name: posts
     label: Posts
+
+# File was updated via the web and GitHub API
