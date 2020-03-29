@@ -1,0 +1,11 @@
+# Required Settings
+site_url: example.com # {string}
+config_path: limber # {string} path from project root to content-type config files
+status: published # {select} published | private | staging (default = published)
+# Optional Settings
+groups: # Used to group related content-types in the UI
+  - name: pages # Group identifier, used in routes, e.g., /admin/pages
+    label: Pages # Used in the nav menu and page title
+    description: Description of the group. Displayed on the Group page in the UI. # [optional] {string}
+  - name: posts
+    label: Posts
