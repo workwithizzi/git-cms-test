@@ -9,3 +9,5 @@ groups:
     description: Description of the group. Displayed on the Group page in the UI.
   - name: posts
     label: Posts
+
+# Updated
