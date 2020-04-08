@@ -1,0 +1,4 @@
+# Required Settings
+site_url: example.com # {string}
+config_path: limber # {string} path from project root to content-type config files
+status: published # {select} published | private | staging (default = published)
