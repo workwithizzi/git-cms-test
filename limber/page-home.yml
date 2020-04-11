@@ -1,6 +1,6 @@
 label: Home Page
 name: index
-file: data/content/pages
+path: data/content/pages
 group: Pages
 create: 'true'
 delete: 'true'
