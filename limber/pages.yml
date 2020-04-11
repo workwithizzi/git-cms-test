@@ -1,5 +1,0 @@
-name: pages # Content-type identifier, used in routes, e.g., /admin/content/pages
-label: Pages # The name used for the menu-item and/or title of the page
-description: Description of the content-type. Displayed below the title when viewing the types page.
-group: Pages # [optional] Has to relate to a group provided in limber.yml. If no group is listed, then this type will be displayed as a group in the UI
-path: data/content/pages # Where the CMS reads and writes the content.
