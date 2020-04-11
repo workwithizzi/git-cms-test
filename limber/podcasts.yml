@@ -1,0 +1,17 @@
+name: podcasts
+label: Podcasts
+description: Description of the 'podcasts' content-type. Displayed below the title when viewing the types page.
+group: Podcasts
+path: content/podcasts
+create: 'true'
+delete: 'true'
+repeat: 'true'
+fields:
+- label: Title
+  name: title
+  widget: string
+  required: 'true'
+- label: Slug
+  name: slug
+  widget: string
+  required: 'true'
