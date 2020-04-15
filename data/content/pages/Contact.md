@@ -18,5 +18,3 @@ List:
 - Three
 - Four
 - Five
-
-# Somethings
