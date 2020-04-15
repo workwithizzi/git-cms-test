@@ -1,10 +1,12 @@
 ---
 slug: "/contact"
 title: "Contact Us"
-content-type: "contact-page"
+content_type: "contact-page"
 status: "Published"
-date: "2020-04-03"
+date: "2020-15-04"
 ---
+
+
 
 # Contact Us Page
 
@@ -19,4 +21,4 @@ List:
 - Four
 - Five
 
-# Some Changes !
+# Some Changes !!
