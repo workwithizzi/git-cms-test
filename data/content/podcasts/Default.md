@@ -1,13 +1,11 @@
 ---
 slug: "/"
 title: "Default"
-content-type: "podcast"
+content_type: "podcast"
 status: "Published"
-date: "2020-04-03"
+date: "2020-16-04"
 ---
 
 # Default podcast
 
 ## Content
-
-content
