@@ -15,9 +15,3 @@ List:
 - Two
 - Three
 - Four
-
-_Five_
-
-_six_
-
-~Seven~
