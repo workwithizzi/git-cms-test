@@ -17,5 +17,3 @@ List:
 - Four
 
 _Five_
-
-__SIX__
